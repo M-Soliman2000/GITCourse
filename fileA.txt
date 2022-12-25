@@ -1,1 +1,2 @@
 this the first lune in fileA.txt
+add the second line in fileA.txt
